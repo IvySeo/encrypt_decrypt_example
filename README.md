@@ -1,5 +1,5 @@
 # encrypt_decrypt_example
-This program encrypts and decrypts using a sealed box method of the "libsodium" library and write a file using UUID
+This example encrypts and decrypts using a sealed box method of the "libsodium" library and write a file using UUID
 
 
 **[HOW TO RUN] :**
