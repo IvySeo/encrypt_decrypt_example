@@ -1,4 +1,4 @@
-# encrypt decrypt example
+# encrypt decrypt example in Rust
 This example encrypts and decrypts using a sealed box method of the "libsodium" library and write a file using UUID
 
 
