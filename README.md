@@ -18,6 +18,7 @@ This example encrypts and decrypts using a sealed box method of the "libsodium" 
 ***3) type 'cargo run' to run the program***
 
 ***4) feel free to change value/message to encrypt/decrypt***
+#
 
 **Cryptography**
 Cryptography is used to secure and protect data during communication. 
