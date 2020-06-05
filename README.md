@@ -3,6 +3,7 @@ This program encrypts and decrypts using a sealed box method of the "libsodium" 
 
 
 **[HOW TO RUN] :**
+
 ***1-a) Set up Rustup / Cargo***
   - rust/cargo : https://doc.rust-lang.org/book/ch01-01-installation.html
   
