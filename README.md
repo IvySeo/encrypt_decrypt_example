@@ -32,6 +32,6 @@ It is helpful to prevent unauthorized person or group of users from accessing an
 **Sealed box**: designed to anonymously send messages to a recipient given its public key.
 Only the recipient can decrypt these messages, using its private key. 
 
-#Terminal Screenshot
+# Terminal Screenshot
 
 ![alt text](https://github.com/IvySeo/encrypt_decrypt_example/blob/master/image%20(6).png)
